@@ -5,6 +5,12 @@
 !.vscode/launch.json
 !.vscode/extensions.json
 
-# img
+# imgs
+
 *.jpg
 *.png
+img/
+
+# passwords
+
+password.txt
